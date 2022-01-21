@@ -6,7 +6,7 @@ Below are the objectives of the project:
 3) Gain experience of collecting real-time data 
 4) Gain experience of data cleaning and data visualization
 
-##Output
+## Output
 
 ![ML](count_of_daily_tweets.JPG)
 
